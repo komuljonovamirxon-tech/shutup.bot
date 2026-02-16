@@ -14,9 +14,9 @@ FORBIDDEN_WORDS = ["Tashaq","tashaq", "yban","Yban", "dalbayop","urot","Urot","q
 
 # Progressive punishment durations (in seconds)
 PUNISHMENT_DURATIONS = {
-    1: 600,      # First offense: 5 minutes
-    2: 1600,      # Second offense: 15 minutes  
-    3: 7200,     # Third offense: 1 hour
+    1: 300,      # First offense: 5 minutes
+    2: 900,      # Second offense: 15 minutes  
+    3: 3600,     # Third offense: 1 hour
     4: 86400     # Fourth offense: 1 day
 }
 
