@@ -10,7 +10,7 @@ load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Moderation settings
-FORBIDDEN_WORDS = ["so'kinish1", "so'kinish2", "yomonso'z"]
+FORBIDDEN_WORDS = ["Tashaq","tashaq", "yban","Yban", "dalbayop","urot","Urot","qotaq","Qotaq","Om","om","dalban","Dalban","bla","Bla","it","It","yetm","Yetm","skin","skaman"]
 
 # Progressive punishment durations (in seconds)
 PUNISHMENT_DURATIONS = {
